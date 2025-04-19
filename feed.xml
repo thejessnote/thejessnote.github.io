@@ -3,30 +3,10 @@
     <title>JessNote</title>
     <link href="https://thejessnote.github.io/feed.xml" rel="self" />
     <link href="https://thejessnote.github.io" />
-    <updated>2025-04-19T12:10:33+08:00</updated>
+    <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
         <name>Jess</name>
     </author>
     <id>https://thejessnote.github.io</id>
 
-    <entry>
-        <title>tes</title>
-        <author>
-            <name>Jess</name>
-        </author>
-        <link href="https://thejessnote.github.io/tes.html"/>
-        <id>https://thejessnote.github.io/tes.html</id>
-
-        <updated>2025-04-19T12:10:33+08:00</updated>
-            <summary>
-                <![CDATA[
-                    test
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>test</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
