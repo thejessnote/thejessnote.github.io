@@ -3,12 +3,32 @@
     <title>JessNote</title>
     <link href="https://thejessnote.github.io/feed.xml" rel="self" />
     <link href="https://thejessnote.github.io" />
-    <updated>2025-04-19T11:37:27+08:00</updated>
+    <updated>2025-04-19T11:41:54+08:00</updated>
     <author>
         <name>Jess</name>
     </author>
     <id>https://thejessnote.github.io</id>
 
+    <entry>
+        <title>About Jess</title>
+        <author>
+            <name>Jess</name>
+        </author>
+        <link href="https://thejessnote.github.io/about-jess.html"/>
+        <id>https://thejessnote.github.io/about-jess.html</id>
+
+        <updated>2025-04-19T11:41:54+08:00</updated>
+            <summary>
+                <![CDATA[
+                    ## Who are I
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>## Who are I</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hello Test Note</title>
         <author>
