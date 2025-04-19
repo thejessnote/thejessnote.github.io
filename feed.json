@@ -9,33 +9,5 @@
         "name": "Jess"
     },
     "items": [
-        {
-            "id": "https://thejessnote.github.io/about-jess.html",
-            "url": "https://thejessnote.github.io/about-jess.html",
-            "title": "About Jess",
-            "summary": "## Who are I",
-            "content_html": "<p>## Who are I</p>",
-            "author": {
-                "name": "Jess"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-04-19T11:41:54+08:00",
-            "date_modified": "2025-04-19T11:41:54+08:00"
-        },
-        {
-            "id": "https://thejessnote.github.io/hello-test-note.html",
-            "url": "https://thejessnote.github.io/hello-test-note.html",
-            "title": "Hello Test Note",
-            "summary": "this is a Note note, I love claude",
-            "content_html": "<p>this is a Note note, I love claude</p>",
-            "author": {
-                "name": "Jess"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-04-19T11:37:27+08:00",
-            "date_modified": "2025-04-19T11:37:27+08:00"
-        }
     ]
 }
